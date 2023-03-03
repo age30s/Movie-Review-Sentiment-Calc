@@ -1,7 +1,6 @@
-# Project 4 - Movie Review Sentiment Analysis App
+# Movie Review Sentiment Analysis App
 # Adithya Prasad
-# Project 4 - Movie Review Sentiment
-# 10/22 CS 111 (CRN:40304)
+
 
 # This app will allow users to submit text files with the reviews
 # of any movie of their choice, and will output the overall score
